@@ -6,4 +6,4 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('VsCode with Python rocks \o/')
 
-print_hi('Josias')
+print_hi('Josias Leonardo Jr')
